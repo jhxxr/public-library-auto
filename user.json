@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "users": [
+        {
+            "name": "随便写一个名字",
+            "account": "学号",
+            "password": "getpassword.py中获取",
+            "seat": "座位号",
+            "startTime": "9",
+            "endTime": "17",
+            "auto_book": false
+        }
+    ]
+}
